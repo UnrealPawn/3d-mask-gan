@@ -20,7 +20,7 @@ you can find it at /home/wangliu/3DGANServer/
 
 or you can make it using image at /home/wangliu/Larry/ABC and code at tool file 
 ## Train
-run 3dgan-mit-biasfree2-car
+run 3dgan-mit-biasfree or 3dgan-mit-biasfree2-car
 
 ## Test
 run 3dgan-test to start server
