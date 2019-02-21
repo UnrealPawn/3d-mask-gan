@@ -13,8 +13,12 @@ A TensorFlow implementation for 3d-mask-gan
 - tqdm
 
 ## Data require:
-late....push
+- mask_new.db.npy
+- Image_new.db.npy
 
+you can find it at /home/wangliu/3DGANServer/
+
+or you can make it using image at /home/wangliu/Larry/ABC and code at tool file 
 ## Train
 run 3dgan-mit-biasfree2-car
 
